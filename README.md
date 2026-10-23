@@ -113,13 +113,12 @@ To run this masterpiece locally on your machine:
 
 ## 📬 Contact & Links
 
-- **Creator:** Krishan Kumar Awasthi
-- **GitHub:** [@Dev-Krishan-Kumar-Awasthi](https://github.com/Dev-Krishan-Kumar-Awasthi)
-- **LinkedIn:** [Krishan Kumar Awasthi](https://www.linkedin.com/in/kkawasthi/)
-- **Email:** awasthikrishnaa92@gmail.com
+- **Creator:** Agrim Gupta
+- **GitHub:** [@Agrim Gupta](https://github.com/Dev-Krishan-Kumar-Awasthi)
+- **LinkedIn:** [Agrim Gupta](https://www.linkedin.com/in/kkawasthi/)
+- **Email:** agrimgupta1104@gmail.com
 - **Live Project:** [QuickPassportPhoto](https://quick-passport-photo.vercel.app)
-- **Developer Portfolio:** [kkawasthi.vercel.app](https://kkawasthi.vercel.app/)
-
+  
 ---
 <div align="center">
   <p><h3><a href="https://kkawasthi.vercel.app/">Design and Developed by Krishan Kumar Awasthi</a></h3></p>
